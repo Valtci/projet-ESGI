@@ -1,10 +1,2 @@
 Bonjour
-Au revoir
-Salut
-Coucou
-TP
-ESGI
-SRC
-Informatique
-Reseau
-Github
+
