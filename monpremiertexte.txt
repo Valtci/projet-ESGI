@@ -3,8 +3,4 @@ Au revoir
 Salut
 ESGI
 Github
-SRC
-Coucou
-Informatique
-Reseau
-Technologie
+Ligne 6
